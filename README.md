@@ -1,2 +1,3 @@
 # hello-world
-Juas a Test Repository
+Just a Test Repository
+This is a test
